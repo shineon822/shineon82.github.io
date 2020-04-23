@@ -13,7 +13,7 @@ published: true
 Federico, più 40 che 30, -ho circa {{hoursSince}} ore-, [brianzolo](https://it.wikipedia.org/wiki/Brianza) trapiantato in un paese del [Monferrato](https://it.wikipedia.org/wiki/Monferrato).
 
 *Floydiano* (ma anche *deandrèiano*, *gucciniano*...) dalla nascita.  
-Viaggiatore: in auto su strade appenniniche più o meno disastrate, in treno lungo le linee secondarie poco frequentate.
+Viaggiatore: in auto su strade appenniniche più o meno disastrate, in treno lungo le linee secondarie poco frequentate -che ancora non hanno chiuso-, e a piedi.
 
 *Sinistro*.
 Interista.
