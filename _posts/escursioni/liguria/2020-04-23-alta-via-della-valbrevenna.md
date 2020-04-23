@@ -12,6 +12,7 @@ tags:
   - monte Duso
   - trekking
   - trekking di compleanno
+image: /img/featured/valbrevenna.jpg
 ---
 
 L'idea di fare un trekking ad anello nella bellissima Valbrevenna frullava nella mia testa già da qualche tempo, l'esperienza di due signori letta mesi fa su Facebook ne ha accelerato la programmazione.
