@@ -14,9 +14,8 @@ tags:
   - trekking di compleanno
 image: /img/featured/valbrevenna.jpg
 ---
-Lo scrivo subito, tanto per cambiare portare pazienza per le foto...
 
-L'idea di fare un trekking ad anello nella bellissima Valbrevenna frullava nella mia testa già da qualche tempo, l'esperienza di due signori letta mesi fa su Facebook ne ha accelerato la programmazione.
+L'idea di fare un trekking ad anello nella selvaggia Valbrevenna frullava nella mia testa già da qualche tempo, l'esperienza di due signori letta mesi fa su Facebook ne ha accelerato la programmazione.
 
 Il mio itinerario prevedeva partenza ed arrivo ad Avosso, frazione di Casella, in valle Scrivia, crinale che divide Valbrevenna e val Pentemina fino ad arrivare al monte Duso, poi sentiero per Chiappa, Tonno, risalita al monte Buio, crinale fino al monte Maggio, discesa su Casella e infine Avosso. Tanto per cambiare, non è andata esattamente così...
 
@@ -80,3 +79,6 @@ Pianifica meno velocemente: fidati delle carte di OpenStreetMaps, ma ricontrolla
 Primo vero test invernale del nuovo sacco in piuma: decisamente superato: ottimo.
 
 La Valbrevenna, a piedi, mi mancava: è davvero stupenda. Bel giro nonostante la seconda giornata, un po' così...
+
+
+Tanto per cambiare portare pazienza per le foto...
