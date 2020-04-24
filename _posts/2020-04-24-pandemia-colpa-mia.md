@@ -2,6 +2,7 @@
 layout: post
 published: false
 title: 'Pandemia: è colpa mia'
+date: '2020-04-25'
 ---
 Giorno 49 di quarantena.
 
