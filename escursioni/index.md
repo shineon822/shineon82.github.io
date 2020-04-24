@@ -1,19 +1,18 @@
 ---
 title: Escursioni
-permalink: /escursioni/
+permalink: "/escursioni/"
 layout: page
 tags:
-  - escursioni
-  - montagna
-  - appennini
+- escursioni
+- montagna
+- appennini
 bigimg:
-  - /img/big/antola.jpg: Panorama dal M. Antola (2010)
-published: true
+- "/img/big/antola.jpg": Panorama dal M. Antola (2010)
 redirect_from:
-  - /trekking/
-  - /escursioni/liguria/
-  - /escursioni/piemonte/
-  - /escursioni/emilia-romagna/
+- "/trekking/"
+- "/escursioni/liguria/"
+- "/escursioni/piemonte/"
+- "/escursioni/emilia-romagna/"
 ---
 
 > Eppure, le Alpi sono solo la cornice esterna del paese.  

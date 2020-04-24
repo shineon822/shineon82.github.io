@@ -1,19 +1,18 @@
 ---
 title: Via del sale
-permalink: /escursioni/via-del-sale
+permalink: "/escursioni/via-del-sale"
 layout: page
 tags:
-  - escursioni
-  - montagna
-  - appennini
-  - via del sale
-  - Montalto Pavese
-  - Portofino
-  - Stefano Ardito
-  - Roberto Sigismondi
+- escursioni
+- montagna
+- appennini
+- via del sale
+- Montalto Pavese
+- Portofino
+- Stefano Ardito
+- Roberto Sigismondi
 bigimg:
-  - /img/big/antola.jpg: Panorama dal M. Antola (2010)
-published: true
+- "/img/big/antola.jpg": Panorama dal M. Antola (2010)
 subtitle: da Montalto Pavese a Portofino
 ---
 
