@@ -1,8 +1,9 @@
 ---
 layout: post
-published: false
-title: 'Pandemia: è colpa mia'
+published: true
+title: 'Pandemia: vi chiedo scusa, è colpa mia'
 date: '2020-04-25'
+image: /img/featured/emoticon-mascherina.jpg
 ---
 Giorno 49 di quarantena.
 
