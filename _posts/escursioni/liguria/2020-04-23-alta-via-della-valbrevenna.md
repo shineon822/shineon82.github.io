@@ -1,19 +1,19 @@
 ---
-title: Alta via della Valbrevenna
-date: 2019-12-28 00:00:00 +01:00
-categories:
-- escursioni
-- Liguria
-tags:
-- Valbrevenna
-- monte Duso
-- trekking
-- trekking di compleanno
 layout: post
-subtitle: Trekking di compleanno 2019, due giorni e 35 km
-image: "/img/featured/valbrevenna.jpg"
+published: true
+title: Alta via della Valbrevenna
+subtitle: 'Trekking di compleanno 2019, due giorni e 35 km'
+date: '2019-12-28'
+categories:
+  - escursioni
+  - Liguria
+tags:
+  - Valbrevenna
+  - monte Duso
+  - trekking
+  - trekking di compleanno
+image: /img/featured/valbrevenna.jpg
 ---
-
 Lo scrivo subito, tanto per cambiare portare pazienza per le foto...
 
 L'idea di fare un trekking ad anello nella bellissima Valbrevenna frullava nella mia testa già da qualche tempo, l'esperienza di due signori letta mesi fa su Facebook ne ha accelerato la programmazione.

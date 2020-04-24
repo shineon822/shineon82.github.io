@@ -1,23 +1,24 @@
 ---
 title: Equipaggiamento
-permalink: "/escursioni/equipaggiamento/"
+permalink: /escursioni/equipaggiamento/
 layout: page
 tags:
-- escursioni
-- trekking
-- montagna
-- equipaggiamento
-- zaini
-- tende
-- coltelli
-- sacchi a pelo
-- pernottamento
-- cucina outdoor
-- fornelli
-- fuoco
+  - escursioni
+  - trekking
+  - montagna
+  - equipaggiamento
+  - zaini
+  - tende
+  - coltelli
+  - sacchi a pelo
+  - pernottamento
+  - cucina outdoor
+  - fornelli
+  - fuoco
 bigimg:
-- "/img/big/antola.jpg": Panorama dal M. Antola (2010)
-- "/img/big/chiappo.jpg": Panorama dal M. Chiappo (2018)
+  - /img/big/antola.jpg: Panorama dal M. Antola (2010)
+  - /img/big/chiappo.jpg: Panorama dal M. Chiappo (2018)
+published: true
 ---
 
 ### PAGINE IN COSTRUZIONE

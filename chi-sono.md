@@ -1,10 +1,10 @@
 ---
 title: Chi sono
-permalink: "/chi-sono"
+permalink: /chi-sono
 layout: page
 subtitle: Due parole su di me
+published: true
 ---
-
 {% assign today = site.time | date: '%s' %}
 {% assign start = '28-12-1982 02:00:00' | date: '%s' %}
 {% assign secondsSince = today | minus: start %}

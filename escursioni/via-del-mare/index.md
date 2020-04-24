@@ -1,17 +1,18 @@
 ---
 title: Via del mare
-permalink: "/escursioni/via-del-mare/"
+permalink: /escursioni/via-del-mare/
 layout: page
 tags:
-- escursioni
-- montagna
-- appennini
-- via del mare
-- Tortona
-- Portofino
-- VDM
+  - escursioni
+  - montagna
+  - appennini
+  - via del mare
+  - Tortona
+  - Portofino
+  - VDM
 bigimg:
-- "/img/big/antola.jpg": Panorama dal M. Antola (2010)
+  - /img/big/antola.jpg: Panorama dal M. Antola (2010)
+published: true
 subtitle: da Tortona a Portofino
 ---
 
