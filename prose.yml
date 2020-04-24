@@ -1,0 +1,51 @@
+# prose.io config
+prose:
+  rooturl: ''
+  media: 'img'
+  ignore:
+    - 404.html
+    - LICENSE
+    - feed.xml
+    - _config.yml
+    - /_layouts
+    - /_includes
+    - /css
+    - /img
+    - /js
+  metadata:
+    _posts:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "post"
+      - name: "title"
+        field:
+          element: "text"
+          label: "Titolo post"
+          placeholder: "Titolo"
+          alterable: true
+      - name: "subtitle"
+        field:
+          element: "textarea"
+          label: "Sottotitolo"
+          placeholder: "Descrizione del tuo post."
+          alterable: true
+      - name: "date"
+        field:
+          element: "text"
+          label: "Data"
+          help: "Data del post."
+          placeholder: "yyyy-mm-dd"
+          alterable: true
+      - name: "image"
+        field:
+          element: "text"
+          label: "Immagine"
+          help: "Add a thumbnail image to your post."
+          placeholder: "Featured image"
+          alterable: true
+      - name: "published"
+        field:
+          element: "checkbox"
+          label: "Pubblica"
+          help: "Check to publish post, uncheck to hide."
