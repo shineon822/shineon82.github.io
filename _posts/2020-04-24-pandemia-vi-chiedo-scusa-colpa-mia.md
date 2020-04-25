@@ -6,15 +6,16 @@ subtitle: 'Per rimandare un grande progetto, serve un grande impedimento.'
 date: '2020-04-25'
 image: /img/featured/emoticon-mascherina.jpg
 categories:
- - trekking
  - riflessioni
 tags:
  - coronavirus
  - pandemia
+ - trekking
+ - traversate
  - viadelsale
 ---
 Giorno 49 di quarantena.
-Oggi mi devo scusare. Scusatemi. Perchè?
+Credo di dovermi scusare. Scusatemi. Perchè?
 
 A gennaio ho deciso che ormai era arrivato il momento di togliere dal cassetto dopo oltre 20 anni la [Via del sale, da Montalto Pavese a Portofino](/escursioni/via-del-sale).
 
