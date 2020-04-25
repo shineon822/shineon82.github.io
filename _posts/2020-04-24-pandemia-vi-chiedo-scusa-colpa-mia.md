@@ -15,7 +15,7 @@ tags:
   - viadelsale
 ---
 
-#### Giorno 49 di quarantena. <sub>Post ironico, non volto a sminuire la serietà della situazione.</sub>
+#### Giorno 49 di quarantena. <small>Post ironico, non volto a sminuire la serietà della situazione.</small>
 
 Credo di dovermi scusare.
 Scusatemi.
