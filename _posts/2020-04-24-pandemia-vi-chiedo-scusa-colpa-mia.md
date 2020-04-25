@@ -17,6 +17,7 @@ tags:
 
 ## Giorno 49 di quarantena.
 
+Attenzione: post ironico, NON volto a sminuire la serietà della situazione.
 Credo di dovermi scusare.
 Scusatemi.
 
