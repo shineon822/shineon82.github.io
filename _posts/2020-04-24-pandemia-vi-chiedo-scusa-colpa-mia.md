@@ -2,6 +2,7 @@
 layout: post
 published: true
 title: 'Pandemia: vi chiedo scusa, è colpa mia'
+subtitle: 'Per rimandare un grande progetto, serve una grande impedimento.'
 date: '2020-04-25'
 image: /img/featured/emoticon-mascherina.jpg
 categories:
