@@ -6,16 +6,16 @@ subtitle: 'Per rimandare un grande progetto, serve un grande impedimento.'
 date: '2020-04-25'
 image: /img/featured/emoticon-mascherina.jpg
 categories:
- - riflessioni
+  - riflessioni
 tags:
- - coronavirus
- - pandemia
- - trekking
- - traversate
- - viadelsale
+  - coronavirus
+  - pandemia
+  - trekking
+  - traversate
+  - viadelsale
 ---
 
-##Giorno 49 di quarantena.
+## Giorno 49 di quarantena.
 
 Credo di dovermi scusare.
 Scusatemi.
