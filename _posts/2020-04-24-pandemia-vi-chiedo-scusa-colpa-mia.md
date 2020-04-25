@@ -14,8 +14,10 @@ tags:
  - traversate
  - viadelsale
 ---
-Giorno 49 di quarantena.
-Credo di dovermi scusare. Scusatemi. Perchè?
+## Giorno 49 di quarantena.
+
+Credo di dovermi scusare.
+Scusatemi.
 
 A gennaio ho deciso che ormai era arrivato il momento di togliere dal cassetto, dopo oltre 20 anni, la [Via del sale, da Montalto Pavese a Portofino](/escursioni/via-del-sale).
 
