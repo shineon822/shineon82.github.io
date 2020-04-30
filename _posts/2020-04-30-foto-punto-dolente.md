@@ -10,6 +10,7 @@ tags:
 bigimg:
   - /img/big/fotografi.jpg: Ann64 / CC BY-SA
 subtitle: Il simpatico rapportino che ho con fotografie e immagini.
+image: /img/featured/fotografi.jpg
 ---
 Dopo aver adattato e integrato il tema, che ricordo essere [Beautiful Jekyll](https://beautifuljekyll.com/), con gli ultimi aggiornamenti dello sviluppatore, mi sono reso conto per l'ennesima volta che:
 - le foto dell'header nella home sono 2 (due!) e la più recente è di due anni fa;
