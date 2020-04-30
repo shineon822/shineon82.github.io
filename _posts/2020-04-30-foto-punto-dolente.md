@@ -1,12 +1,14 @@
 ---
 layout: post
-published: false
+published: true
 title: 'Foto: punto dolente'
 categories:
   - aggiornamenti
 tags:
   - sito
   - novità
+bigimg:
+  - /img/big/fotografi.jpg: Ann64 / CC BY-SA
 ---
 Dopo aver adattato e integrato il tema, che ricordo essere [Beautiful Jekyll](https://beautifuljekyll.com/), con gli ultimi aggiornamenti dello sviluppatore, mi sono reso conto per l'ennesima volta che:
 - le foto dell'header nella home sono 2 (due!) e la più recente è di due anni fa;
